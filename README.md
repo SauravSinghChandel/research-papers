@@ -1,4 +1,4 @@
-###Research Papers
+## Research Papers
 
 This repository contains a collection of research papers I authored during my university coursework. 
 The papers explore topics in the field of artificial intelligence, with a focus on neural networks 
